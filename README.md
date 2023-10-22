@@ -30,6 +30,7 @@
   </a>
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+      <a href="https://open.spotify.com/user/evelinalvarado" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   </a>
 </div>
 
@@ -59,19 +60,21 @@
 <br>
 
 <div align=center>
-  <img width=390 height="" src="https://github-readme-stats.vercel.app/api?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true"/><br/>
+  <img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img width=390 height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true"/><br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <br/><br/>
 <hr/>
 
-<div> 
-  <a href="https://www.linkedin.com/in/evelinalvarado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/evelinalvarado" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>☻
-  
-</div>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️">
+</h3>
+
+<br/>
+
+
 
 <!--
 **EvelinAlvarado/EvelinAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
