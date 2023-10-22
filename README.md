@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 </div>
 
 ##
-<!--
+
 ![snake gif](https://github.com/EvelinAlvarado/EvelinAlvarado/blob/output/github-contribution-grid-snake.svg)
