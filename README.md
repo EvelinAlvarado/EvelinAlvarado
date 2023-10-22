@@ -35,3 +35,7 @@ Here are some ideas to get you started:
   <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
+##
+<!--
+![snake gif](https://github.com/EvelinAlvarado/EvelinAlvarado/blob/output/github-contribution-grid-snake.svg)
