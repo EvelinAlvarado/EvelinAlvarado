@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 ![EvelinAlvarado's Stats](https://github-readme-stats.vercel.app/api?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 ![EvelinAlvarado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true)
 ![EvelinAlvarado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
