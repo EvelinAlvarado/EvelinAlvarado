@@ -14,6 +14,7 @@
   <a href="https://open.spotify.com/user/evelinalvarado" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>☻
   
 </div>
+
 <!--
 **EvelinAlvarado/EvelinAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true"/>
