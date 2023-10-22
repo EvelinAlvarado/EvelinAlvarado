@@ -58,13 +58,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact"/>
+<div align=center>
+  <img width=390 height="" src="https://github-readme-stats.vercel.app/api?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinAlvarado&theme=shades-of-purple&hide_border=true"/><br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelinAlvarado&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-##
+<br/><br/>
+<hr/>
 
 <div> 
   <a href="https://www.linkedin.com/in/evelinalvarado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
