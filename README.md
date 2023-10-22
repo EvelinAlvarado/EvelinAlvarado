@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EvelinAlvarado.EvelinAlvarado" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Evelin+Alvarado!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=E9731E&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Evelin+Alvarado!+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG)" />
 </h1>
 <!--
 <h3 align="center">A passionate ### from Peru PE </h3>
@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or 
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact *https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=47119C&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Evelin+Alvarado!+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG*Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div> -->
  
